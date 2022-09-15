@@ -1,10 +1,9 @@
 # Fix Multiedia & Fingerprint for Astro on ports
 
-## Description
 This module fixes the fingerprint and multimedia in ports where these features don't work, for Motorola One Fusion.
+
+![Release date](https://img.shields.io/github/release-date/syoker/fix-multimedia-fingerprint)
+![Downloads](https://img.shields.io/github/downloads/syoker/fix-multimedia-fingerprint/total)
 
 ## Compatibility
 - GSI Ports
-
-## Notes
-- Flash with Magisk
