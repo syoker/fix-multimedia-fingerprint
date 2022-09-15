@@ -1,7 +1,7 @@
-id=Fix_Multimedia_and_Fingerprint
+id=fix-Multimedia-fingerprint
 name=Fix Multimedia and Fingerprint
 version=v1.0.0
 versionCode=1
-author=@Syoker
+author=Syoker
 description=This module fixes the fingerprint and multimedia in ports where these features don't work, for Motorola One Fusion.
-updateJson=
+updateJson=https://raw.githubusercontent.com/Syoker/fix-multimedia-fingerprint/main/update.json
